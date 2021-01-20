@@ -1,0 +1,13 @@
+{
+  "name": "open_box_pulse",
+  "supportEmail": "jcriollo@cgbsatelital.com",
+  "version": "0.0.1",
+  "items": [{
+    "page": "devices",
+    "click": "http://138.197.228.217:9000/scripts/openBoxPulse.js",
+    "buttonName": {
+      "en": "ABRIR CAJA"
+    },
+    "icon": "http://138.197.228.217:9000/images/icon.svg"
+  }]
+}
